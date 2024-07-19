@@ -10,7 +10,9 @@ Jade.Dynasty.S01(?=.*HHWEB) => 诛仙.S01{[tmdbid=206484;type=tv;s=1]}
 \[猪猪字幕组\]\[火影忍者-NARUTO -ナルト\]\[(10[5-9]|1[1-4][0-9]|15[0-8])\]\[DVD 720x544\] => [猪猪字幕组][火影忍者-NARUTO -ナルト][\1][DVD 720x544]{[tmdbid=46260;type=tv;s=3]}
 \[猪猪字幕组\]\[火影忍者-NARUTO -ナルト\]\[(15[9-9]|1[6-9][0-9]|20[0-9]|220)\]\[DVD 720x544\] => [猪猪字幕组][火影忍者-NARUTO -ナルト][\1][DVD 720x544]{[tmdbid=46260;type=tv;s=4]}
 #时光代理人-HHWEB
+##第一季
 LINK CLICK S01 2021(?=.*HHWEB) => 时光代理人.S01{[tmdbid=123542;type=tv;s=1]}
+##第二季
 LINK CLICK S02 2023(?=.*HHWEB) => 时光代理人.S02{[tmdbid=123542;type=tv;s=2]}
 #吞噬星空-QHstudIo
 ##第三季
