@@ -12,3 +12,8 @@ Jade.Dynasty.S01(?=.*HHWEB) => 诛仙.S01{[tmdbid=206484;type=tv;s=1]}
 #时光代理人-HHWEB
 LINK CLICK S01 2021(?=.*HHWEB) => 时光代理人.S01{[tmdbid=123542;type=tv;s=1]}
 LINK CLICK S02 2023(?=.*HHWEB) => 时光代理人.S02{[tmdbid=123542;type=tv;s=2]}
+#吞噬星空-QHstudIo
+##第三季
+Swallowed.Star.2022.S03E(0[1-9]|1[0-9]|2[0-9]|30|31|32|33).*QHstudIo => 吞噬星空.S01E\1.2021 && S01 <> 2021 >> EP+52
+##第二季
+Swallowed.Star.Ⅱ.2021.S02E(0[1-9]|1[0-9]|2[0-6]).*QHstudIo => 吞噬星空.S01E\1.2021 && S01 <> 2021 >> EP+26
