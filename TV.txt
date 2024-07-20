@@ -2,3 +2,5 @@
 唐朝诡事录之西行 => 唐朝诡事录
 #歌手2024-HHWEB
 Singer.S09.2013(?=.*HHWEB) => 歌手2024.S09{[tmdbid=107467;type=tv;s=9]}
+#唐朝诡事录第二季-QHstudIo
+Strange.Tales.of.Tang.Dynasty.II.To.the.West.2024.S02E07.2160p.WEB-DL.HEVC.10bit.DV.DDP5.1.2Audios-QHstudIo.mp4
