@@ -4,3 +4,5 @@
 Singer.S09.2013(?=.*HHWEB) => 歌手2024.S09{[tmdbid=107467;type=tv;s=9]}
 #唐朝诡事录第二季-QHstudIo
 Strange.Tales.of.Tang.Dynasty.II.To.the.West.2024.S02E(0[1-9]|[1-3][0-9]|40).*QHstudIo => 唐朝诡事录.S02.S02E\1.2024{[tmdbid=211089;type=tv;s=2]}
+#歌手2024-QHstudIo
+Singer.2024.S05E(0[1-9]|1[0-2]).*QHstudIo => 歌手2024.S09E\1.{[tmdbid=107467;type=tv;s=9]}
