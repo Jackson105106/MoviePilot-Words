@@ -42,3 +42,9 @@ Jujutsu.Kaisen.S02E => Jujutsu.Kaisen.S01E && Jujutsu.Kaisen.S01E <> 2023 >> EP+
 Swallowed.Star.S04 => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
 吞噬星空.第3季.Swallowed.Star.S03 => 吞噬星空.第1季.Swallowed.Star.S01
 吞噬星空.第2季.Swallowed.Star.S02 => 吞噬星空.第1季.Swallowed.Star.S01 
+#百炼成神 【ADWeb】
+(?<=Apotheosis.S02.*?)2023 => 2022
+Apotheosis.S02 => Apotheosis.S01 && S01 <> 2022 >> EP+52
+#一念永恒S03【ADWeb】
+(?<=Yi.Nian.Yong.Heng.S03.*?)2024 => 2020
+Yi.Nian.Yong.Heng.S03 => A.Will.Eternal.S01 && S01 <> 2020 >> EP+106
