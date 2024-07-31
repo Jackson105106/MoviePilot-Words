@@ -9,14 +9,12 @@ Fights.Break.Sphere.SP2(?=.*HHWEB) => 斗破苍穹 特别篇.S02{[tmdbid=213658;
 \[猪猪字幕组\]\[火影忍者-NARUTO -ナルト\]\[(05[3-9]|0[6-9][0-9]|10[0-4])\]\[DVD 720x544\] => [猪猪字幕组][火影忍者-NARUTO -ナルト][\1][DVD 720x544]{[tmdbid=46260;type=tv;s=2]}
 \[猪猪字幕组\]\[火影忍者-NARUTO -ナルト\]\[(10[5-9]|1[1-4][0-9]|15[0-8])\]\[DVD 720x544\] => [猪猪字幕组][火影忍者-NARUTO -ナルト][\1][DVD 720x544]{[tmdbid=46260;type=tv;s=3]}
 \[猪猪字幕组\]\[火影忍者-NARUTO -ナルト\]\[(15[9-9]|1[6-9][0-9]|20[0-9]|220)\]\[DVD 720x544\] => [猪猪字幕组][火影忍者-NARUTO -ナルト][\1][DVD 720x544]{[tmdbid=46260;type=tv;s=4]}
-#吞噬星空-【QHstudIo】
-##第三季
-Swallowed.Star.2022.S03E(0[1-9]|1[0-9]|2[0-9]|30|31|32|33).*QHstudIo => 吞噬星空.S01E\1.2021 && S01 <> 2021 >> EP+52
-##第二季
-Swallowed.Star.Ⅱ.2021.S02E(0[1-9]|1[0-9]|2[0-6]).*QHstudIo => 吞噬星空.S01E\1.2021 && S01 <> 2021 >> EP+26
-#一念永恒-【QHstudIo】
+#一念永恒-【QHstudIo】【Momoda】【ADWeb】
 ##第三季
 A.Will.Eternal.2024.S03E(0[1-9]|1[0-9]|2[0-9]).*QHstudIo => A.Will.Eternal.S01.2020 && S01 <> 2020 >> EP+106
+A Will Eternal 2024 S03E(0[1-9]|1[0-9]|2[0-9]).*Momoda => 一念永恒S01E\1.2020 && S01 <> 2020 >> EP+106
+(?<=Yi.Nian.Yong.Heng.S03.*?)2024 => 2020
+Yi.Nian.Yong.Heng.S03 => A.Will.Eternal.S01 && S01 <> 2020 >> EP+106
 #进击的巨人 完结篇（前篇）【ADWeb】
 Shingeki.no.Kyojin.The.Final.Season.Kanketsu-hen.Zenpen.S01E => Attack.on.Titan.S00 && S00 <> 2023 >> EP+35
 #进击的巨人 完结篇（后篇）【ADWeb】
@@ -34,19 +32,15 @@ Jujutsu.Kaisen.S02E => Jujutsu.Kaisen.S01E && Jujutsu.Kaisen.S01E <> 2023 >> EP+
 \[CHS\_CHT\_JPN\]\(\w{8}\)
 \[APTX4869\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
 \[APTX4869&CONANS\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
-#吞噬星空 【ADWeb订阅第2-4季】
+#吞噬星空 【ADWeb订阅第2-4季】【QHstudIo】
 (?<=Swallowed.Star.S04.*?)2023 => 2020
 (?<=Swallowed.Star.S02.*?)2021 => 2020
 (?<=Swallowed.Star.S03.*?)2022 => 2020
 Swallowed.Star.S04 => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
 吞噬星空.第3季.Swallowed.Star.S03 => 吞噬星空.第1季.Swallowed.Star.S01
 吞噬星空.第2季.Swallowed.Star.S02 => 吞噬星空.第1季.Swallowed.Star.S01 
-#百炼成神 【ADWeb】
-(?<=Apotheosis.S02.*?)2023 => 2022
-Apotheosis.S02 => Apotheosis.S01 && S01 <> 2022 >> EP+52
-#一念永恒S03【ADWeb】
-(?<=Yi.Nian.Yong.Heng.S03.*?)2024 => 2020
-Yi.Nian.Yong.Heng.S03 => A.Will.Eternal.S01 && S01 <> 2020 >> EP+106
-#百炼成神第二季(ADWeb)
+Swallowed.Star.2022.S03E(0[1-9]|1[0-9]|2[0-9]|30|31|32|33).*QHstudIo => 吞噬星空.S01E\1.2021 && S01 <> 2021 >> EP+52
+Swallowed.Star.Ⅱ.2021.S02E(0[1-9]|1[0-9]|2[0-6]).*QHstudIo => 吞噬星空.S01E\1.2021 && S01 <> 2021 >> EP+26
+#百炼成神第二季【ADWeb】
 Apotheosis.?S02E(?=.*ADWeb) => Apotheosis S01E && Apotheosis S01E <> 2023 >> EP+52
 (?<=Apotheosis.S01.*?)2023 => 2022
