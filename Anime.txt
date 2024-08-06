@@ -44,5 +44,3 @@ Swallowed.Star.Ⅱ.2021.S02E(0[1-9]|1[0-9]|2[0-6]).*QHstudIo => 吞噬星空.S01
 #百炼成神第二季【ADWeb】
 Apotheosis.?S02E(?=.*ADWeb) => Apotheosis S01E && Apotheosis S01E <> 2023 >> EP+52
 (?<=Apotheosis.S01.*?)2023 => 2022
-#BT【LoliHouse】好想告诉你 第三季
-\[LoliHouse\] 好想告诉你 第三季 => {[tmdbid=68854;type=tv;s=3]}
