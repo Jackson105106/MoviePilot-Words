@@ -4,6 +4,7 @@ Fights.Break.Sphere.SP3(?=.*HHWEB) => 斗破苍穹 特别篇.S03{[tmdbid=213658;
 Fights.Break.Sphere.SP2(?=.*HHWEB) => 斗破苍穹 特别篇.S02{[tmdbid=213658;type=tv;s=2]}
 仙逆【HDVWEB】
 Renegade Immortal 2024 S02E(2[5-9]|[3-6][0-9]|7[0-6]).*HDVWEB => 仙逆.S01E\1.2023 && S01 <> 2023 >> EP+24
+仙逆.Renegade.Immortal.2024.S02E(2[5-9]|[3-6][0-9]|7[0-6]).*HDVWEB => 仙逆.S01E\1.2023 && S01 <> 2023 >> EP+24
 #诛仙【HDVWEB】
 诛仙.Jade.Dynasty.2024.S02E(0[1-9]|1[0-9]|2[0-6]).*HDVWEB => 诛仙.S01E\1.2022 && S01 <> 2022 >> EP+26
 #火影忍者-猪猪字幕组-Naruto HDTV 1920x1080 x264 AAC-jumpcn-1到4季
