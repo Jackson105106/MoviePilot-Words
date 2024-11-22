@@ -216,6 +216,7 @@ Monogatari Series - Off & Monster => 物语系列{[tmdbid=46195;type=tv;s=5]}
 我的妻子不具感情 => 我的妻子没有感情{[tmdbid=250596;type=tv;s=1]}
 #【LoliHouse】好想告诉你 第三季
 \[LoliHouse\] 好想告诉你 第三季 => {[tmdbid=68854;type=tv;s=3]}
+\[Movie\]
 episode\.\d{1}
 \.(第\d{1,2}集)\. => \1
 (?i)Season( *)0?(\d+) => S\2
