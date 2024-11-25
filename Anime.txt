@@ -15,7 +15,9 @@ Renegade Immortal 2024 S02E(2[5-9]|[3-6][0-9]|7[0-6]).*HDVWEB => 仙逆.S01E\1.2
 #一念永恒-【QHstudIo】【Momoda】【ADWeb】
 ##第三季
 A.Will.Eternal.2024.S03E(0[1-9]|1[0-9]|2[0-9]).*QHstudIo => 一念永恒.S01E\1.2020 && S01 <> 2020 >>  EP+106
-A.Will.Eternal.2024.S03E(0[1-9]|1[0-9]|2[0-9]).*ZmWeb => 一念永恒.S01E\1.2020 && S01 <> 2020 >> >> EP+106
+A.Will.Eternal.2024.S03E(0[1-9]|1[0-9]|2[0-9]).*ZmWeb => 一念永恒.S01E\1.2020 && S01 <> 2020 >> EP+106
+A.Will.Eternal.S03E(0[1-9]|1[0-9]|2[0-9]).2160p.TX.WEB-DL.AAC2.0.H.265.*MWeb => 一念永恒.S01E\1.2020 && S01 <> 2020 >> EP+106
+A.Will.Eternal.S01E(0[1-9]|1[0-9]|2[0-9]).2160p.TX.WEB-DL.AAC2.0.H.265.*MWeb => 一念永恒.S01E\1.2020 && S01 <> 2020 >> EP+106
 (?<=Yi.Nian.Yong.Heng.S03.*?)2024 => 2020
 Yi.Nian.Yong.Heng.S03 => A.Will.Eternal.S01 && S01 <> 2020 >> EP+106
 #进击的巨人 完结篇（前篇）【ADWeb】
