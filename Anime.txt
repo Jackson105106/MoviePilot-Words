@@ -1,3 +1,5 @@
+#咒术回战
+Jujutsu Kaisen S2  => Jujutsu Kaisen S1
 #斗破苍穹特别篇-【HHWEB】
 Fights.Break.Sphere.The.Origin.S01(?=.*HHWEB) => 斗破苍穹 特别篇.S04{[tmdbid=213658;type=tv;s=4]}
 Fights.Break.Sphere.SP3(?=.*HHWEB) => 斗破苍穹 特别篇.S03{[tmdbid=213658;type=tv;s=3]}
