@@ -1,3 +1,103 @@
+## 10月新番 ##
+(?<=ANi.*?)刀劍神域外傳 Gun Gale Online II => 刀劍神域外傳 Gun Gale Online S02
+(?<=ANi.*?)精靈幻想記 2 => 精灵幻想记 {[tmdbid=113808;type=tv;s=2]}
+(?<=ANi.*?)精灵幻想记 2 => 精灵幻想记 {[tmdbid=113808;type=tv;s=2]}
+#重来吧，魔王大人！ (2019)
+魔王陛下，RETRY！R => 重来吧，魔王大人！ (2019)
+魔王陛下，RETRY！ => 重来吧，魔王大人！ (2019)
+#转生贵族靠着鉴定技能一飞冲天 第二季
+轉生貴族憑鑑定技能扭轉人生 第二季 - (1[3-9]|2[0-9]) => 转生贵族靠着鉴定技能一飞冲天 S01E\1
+转生贵族凭鉴定技能扭转人生 第二季 - (1[3-9]|2[0-9]) => 转生贵族靠着鉴定技能一飞冲天 S01E\1
+#re:从零开始的异世界生活 第三季
+Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*ADWeb) => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
+(?<=ANi.*?)Re：從零開始的異世界生活 第三季 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 1080P >> EP+50
+(?<=ANi.*?)Re：从零开始的异世界生活 第三季 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 1080P >> EP+50
+#新网球王子 U-17世界杯篇 第二季
+(?<=ANi.*?)新网球王子 U-17 世界杯 SEMIFINAL => 新网球王子 U-17世界杯篇 {[tmdbid=205493;type=tv;s=2]}
+(?<=ANi.*?)新網球王子 U-17 世界盃 SEMIFINAL => 新网球王子 U-17世界杯篇 {[tmdbid=205493;type=tv;s=2]}
+#乱马½
+Ranma.S01(?=.*2024) => 乱马½.S01 {[tmdbid=259140;type=tv;s=1]}
+#死神 千年血战篇
+(?<=ANi.*?)BLEACH 死神 千年血战篇-相克谭- => 死神 千年血战篇 {[tmdbid=30984;type=tv;s=2]}
+(?<=ANi.*?)BLEACH 死神 千年血戰篇-相剋譚- => 死神 千年血战篇 {[tmdbid=30984;type=tv;s=2]}
+(?i)BLEACH.Sennen.Kessen.hen.S01(?=.*ADWeb) => BLEACH.Sennen.Kessen.hen.S02 {[tmdbid=30984;type=tv;s=2]}
+(?i)BLEACH.Sennen.Kessenhen.S01(?=.*ADWeb) => BLEACH.Sennen.Kessen.hen.S02 {[tmdbid=30984;type=tv;s=2]}
+#极速车魂
+MF Ghost S02E => MF Ghost.S01E  && .S01E <>  2024 >> EP+12
+燃油车斗魂 => 极速车魂
+#香格里拉边境第二季
+ShangriLa.Frontier.S02(?=.*ADWeb) => ShangriLa.Frontier.S01 && S01 <> 2024 >> EP+25
+(?<=ANi.*?)香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 => ShangriLa.Frontier.S01 && S01 <> 1080P >> EP+25
+(?<=ANi.*?)香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季 => ShangriLa.Frontier.S01 && S01 <> 1080P >> EP+25
+## 7月新番 ##
+Ore.wa.Subete.wo.Parry.Suru.Gyaku.Kanchigai.no.Sekai.Saikyou.wa.Boukensha.ni.Naritai => Ore.wa.Subete.wo.Parry.Suru.Gyaku.Kanchigai.no.Sekai.Saikyou.wa.Boukensha.ni.Naritai {[tmdbid=238892;type=tv;s=1]}
+Monogatari.Series.Off.Monster.Season =>  Monogatari.Series.Off.Monster.Season{[tmdbid=258616;type=tv;s=1]}
+#你与我最后的战场，亦或是世界起始的圣战 (2020)
+這是妳與我的最後戰場，或是開創世界的聖戰 第二季 => 你与我最后的战场，亦或是世界起始的圣战 S02
+#【我推的孩子】 
+【我推的孩子】 => 我推的孩子{[tmdbid=203737;type=tv;s=1]}
+推しの子 => 我推的孩子{[tmdbid=203737;type=tv;s=1]}
+#战国妖狐 (2024)
+戰國妖狐 千魔混沌編​ - 特別篇 => 战国妖狐 (2024).S00E01
+#最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了
+最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了～ => {[tmdbid=236532;type=tv]}
+最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了～ => 最强肉盾的迷宫攻略～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～
+#大叔新人冒险者，被最强小队拼死锻炼后无敌了
+新人大叔冒險者，被最強隊伍操到死成無敵 => 大叔新人冒险者，被最强小队拼死锻炼后无敌了
+#我的妻子没有感情
+我的妻子不具感情 => 我的妻子没有感情{[tmdbid=250596;type=tv]}
+#百变的七仓同学 (2024)
+模擬後宮體驗 => 百变的七仓同学
+#身为VTuber的我因为忘记关台而成了传说 (2024)
+身為 VTuber 的我因為忘記關台而成了傳說 => 身为VTuber的我因为忘记关台而成了传说
+VTuber.nanda.ga => VTuber.nandaga
+#妖精的尾巴 百年任务
+魔導少年 百年任務 => 妖精的尾巴 百年任务
+#亚刻奥特曼 (2024)
+超人力霸王雅克 => 亚刻奥特曼
+#疑似后宫
+模擬後宮體驗 => 疑似后宫
+#尼尔：自动人形
+尼爾：自動人形 Ver1.1a -  =>尼尔：自动人形 (2023).S01E
+#2.5次元的诱惑
+2.5 次元的誘惑 => 2.5次元的诱惑
+#前辈是男孩子
+學姊是男孩 => 前辈是男孩子
+#我要【招架】一切~反误解的世界最强想成为冒险者～
+我要【招架】一切～反誤解的世界最強想成為冒險家 => 我要【招架】一切~反误解的世界最强想成为冒险者～
+#靠废柴技能【状态异常】成为最强的我将蹂躏一切
+靠废柴技能【状态异常】成为最强的我将蹂躏一切 => 靠废柴技能状态异常成为最强的我将蹂躏一切
+#深夜重拳 (2024)
+深夜 Punch => 深夜冲击
+ #魔法少女与邪恶曾经敌对。 (2024)
+曾經、魔法少女和邪惡相互為敵。 => 魔法少女与邪恶曾经敌对。
+曾经、魔法少女和邪恶相互为敌。 => 魔法少女与邪恶曾经敌对。
+#妖精的尾巴 百年任务
+魔導少年 百年任務 => 妖精的尾巴 百年任务
+#物语系列 (2009)
+物語系列 第外季＆第怪季 => 物语系列 (2009).S05
+物语系列 第外季＆第怪季 => 物语系列 (2009).S05
+#天行九歌
+Tian.Xing.Jiu.Ge => 天行九歌
+#亚托莉 -我挚爱的时光- (2024)
+ATRI -My Dear Moments => 亚托莉 -我挚爱的时光-{[tmdbid=210875;type=tv;s=1]}
+#鹿乃子乃子虎视眈眈
+鹿乃子乃子乃子虎視眈眈 => 鹿乃子乃子虎视眈眈{[tmdbid=248866;type=tv;s=1]}
+#不时用俄语小声说真心话的邻桌艾莉同学
+不時輕聲地以俄語遮羞的鄰座艾莉同學 => 不时用俄语小声说真心话的邻桌艾莉同学{[tmdbid=235758;type=tv;s=1]}
+#狐妖小红娘 镜花缘篇
+(?<=Fox.Spirit.Matchmaker.*?)2024 => 2015 && S01 <> 2160p >> EP+157
+(?<=Fox.Spirit.Matchmaker.*?)S12E(?=.*ADWeb) => S01E && S01E  <> 2024 >> EP+157
+(?<=Fox.Spirit.Matchmaker.*?)2024(?=.*ADWeb) => 2015
+(?<=Fox.Spirit.Matchmaker.*?)2024(?=.*PTerWEB) =>  2015 && S01 <> 2160p >> EP+157
+(?<=Fox.Spirit.Matchmaker.*?)2024(?=.*PTerWEB) =>  2015 && S01 <> 1080p >> EP+157
+#夜晚游玩生活！
+夜晚游玩生活！=> {[tmdbid=249891;type=tv;s=1]}
+異世界自殺突擊隊 => 异世界自杀小队{[tmdbid=229926;type=tv]}
+Kimetsu no Yaiba：Hashira Geiko-hen => 鬼灭之刃 S5
+少年白马醉春风.The.Young.Brewmaster's.Adventure.2024.S02 => 少年白马醉春风S2 {[tmdbid=206878;type=tv;s=2]}
+(雀魂 KANG!! / Jantama Kan!!)|(Jantama Kan!!) => 雀魂 S02
+SPYxFAMILY CODE White => 间谍过家家 代号：白{[tmdbid=1062807;type=movie]}
 #咒术回战
 Jujutsu Kaisen S2  => Jujutsu Kaisen S1
 #斗破苍穹特别篇-【HHWEB】
@@ -28,17 +128,6 @@ Shingeki.no.Kyojin.The.Final.Season.Kanketsu-hen.Zenpen.S01E => Attack.on.Titan.
 Shingeki.no.Kyojin.The.Final.Season.Kanketsu-hen.Kouhen.S01 => Attack.on.Titan.S00E && S00 <> 2023 >> EP+36
 #咒术回战 【ADWeb】
 Jujutsu.Kaisen.S02E => Jujutsu.Kaisen.S01E && Jujutsu.Kaisen.S01E <> 2023 >> EP+24
-#名侦探柯南 【银色子弹 BT】
-(?<=SBSUB.*DR.*?)- => part
-\[CHS\_CHT\_JP\]\(\w{8}\)
-\[CHT\_JP\]\(\w{8}\)
-\[CHS\_JP\]\(\w{8}\)
-\[SBSUB\]\[CONAN\]\[DR => [银色子弹字幕组][名侦探柯南][S01E
-\[SBSUB\]\[CONAN\]\[ => [银色子弹字幕组][名侦探柯南][S01E
-#名侦探柯南 【APTX4869 BT】
-\[CHS\_CHT\_JPN\]\(\w{8}\)
-\[APTX4869\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
-\[APTX4869&CONANS\]\[CONAN\]\[ => [APTX4869][名侦探柯南][S01E
 #吞噬星空 【ADWeb订阅第2-4季】【QHstudIo】
 (?<=Swallowed.Star.S04.*?)2023 => 2020
 (?<=Swallowed.Star.S02.*?)2021 => 2020
