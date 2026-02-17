@@ -311,18 +311,19 @@ Monogatari Series - Off & Monster => 物语系列{[tmdbid=46195;type=tv;s=5]}
 我的妻子不具感情 => 我的妻子没有感情{[tmdbid=250596;type=tv;s=1]}
 #【LoliHouse】好想告诉你 第三季
 \[LoliHouse\] 好想告诉你 第三季 => {[tmdbid=68854;type=tv;s=3]}
-\[Movie\]
+[Movie]
 AnimeF@ADE => ADE
+AnimeF@ADWeb => ADWeb
 episode\.\d{1}
 DTS-HDMA5.1 => DTS-HD.MA5.1
 \.(第\d{1,2}集)\. => \1
 (?<=(VCB-Studio|ANi).*?)(?i)Season( *)0?(\d+) => S\2
 (?<=SBSUB.*DR.*?)- => part
-\[CHS\_CHT\_JP\]\(\w{8}\)
-\[CHT\_JP\]\(\w{8}\)
-\[CHS\_JP\]\(\w{8}\)
-\[SBSUB\]\[CONAN\]\[DR => [银色子弹字幕组][名侦探柯南][S01E
-\[SBSUB\]\[CONAN\]\[ => [银色子弹字幕组][名侦探柯南][S01E
+[CHS_CHT_JP]\(\w{8}\)
+[CHT_JP]\(\w{8}\)
+[CHS_JP]\(\w{8}\)
+[SBSUB][CONAN][DR => [银色子弹字幕组][名侦探柯南][S01E
+[SBSUB][CONAN][ => [银色子弹字幕组][名侦探柯南][S01E
 chs&jpn => jpsc
 cht&jpn => jptc
 (?<=(VCB-Studio|ANi).*?)2nd Season => S02
@@ -347,4 +348,4 @@ S(eason)? ?0?([2-9]) *\[(OVA|OAD)0?\(?(\d)?\)?\] => S0E\2\4
 (?i)\bOPFansMaplesnow\b => OPFans枫雪动漫
 (?i)\bSakurato\b|樱都字幕组|桜都字幕组|桜都 => 桜都字幕组
 (?i)\bHaruhana\b => ❀拨雪寻春❀
-(?<=S\d{2}E\d{2}).+(?=(2160|1080)p.+NTb) =>  
+(?<=S\d{2}E\d{2}).+(?=(2160|1080)p.+(NTb|FLUX)) =>
